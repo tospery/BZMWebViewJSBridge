@@ -22,7 +22,7 @@ pod 'BZMWebViewJSBridge'
 
 ## Author
 
-tospery, yangjianxiang@xunyou.com
+YangJianxiang, tospery@gmail.com
 
 ## License
 
