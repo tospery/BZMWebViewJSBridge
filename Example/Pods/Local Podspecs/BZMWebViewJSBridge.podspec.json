@@ -1,8 +1,8 @@
 {
   "name": "BZMWebViewJSBridge",
-  "version": "0.1.0",
-  "summary": "A short description of BZMWebViewJSBridge.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.0.1",
+  "summary": "An iOS WKWebView bridge",
+  "description": "An iOS bridge for sending messages between ObjC and JavaScript in WKWebView.",
   "homepage": "https://github.com/tospery/BZMWebViewJSBridge",
   "license": {
     "type": "MIT",
@@ -13,10 +13,14 @@
   },
   "source": {
     "git": "https://github.com/tospery/BZMWebViewJSBridge.git",
-    "tag": "0.1.0"
+    "tag": "0.0.1"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "11.0"
   },
-  "source_files": "BZMWebViewJSBridge/Classes/**/*"
+  "source_files": "BZMWebViewJSBridge/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "WebKit"
+  ]
 }

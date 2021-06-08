@@ -10,6 +10,9 @@
 #endif
 #endif
 
+#import "BZMWebViewJSBridgeBase.h"
+#import "BZMWebViewJSBridge_JS.h"
+#import "BZMWKWebViewJSBridge.h"
 
 FOUNDATION_EXPORT double BZMWebViewJSBridgeVersionNumber;
 FOUNDATION_EXPORT const unsigned char BZMWebViewJSBridgeVersionString[];

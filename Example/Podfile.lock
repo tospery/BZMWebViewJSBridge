@@ -1,5 +1,5 @@
 PODS:
-  - BZMWebViewJSBridge (0.1.0)
+  - BZMWebViewJSBridge (0.0.1)
 
 DEPENDENCIES:
   - BZMWebViewJSBridge (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BZMWebViewJSBridge: f22eaa5f9b3b134996ff5b383d8ed34f3b10abc9
+  BZMWebViewJSBridge: f10d407e919f7ee29c102df8bc0e1438345d9bd1
 
-PODFILE CHECKSUM: 75e5222d8d7eb00f2d53eeda9d5ea78278dce29b
+PODFILE CHECKSUM: fc906f0cd18f56a423a4dd66337544889b5859fb
 
 COCOAPODS: 1.10.1
